@@ -1,2 +1,3 @@
 # Graphic Designer Articles Layout
-<img width="1060" alt="Screen Shot 2022-10-14 at 10 41 40 PM" src="https://user-images.githubusercontent.com/82247833/195970963-eaca2f59-01fd-46d2-9e1d-4945ece0bda3.png">
+
+<img width="793" alt="Graphic Designer layout" src="https://user-images.githubusercontent.com/82247833/196008348-e79b82aa-221b-4a30-8ef7-b4b875d92d27.png">
